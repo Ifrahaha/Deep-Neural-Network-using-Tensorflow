@@ -58,9 +58,3 @@ You will need Python and some essential libraries like TensorFlow, Keras, OpenCV
 Install the dependencies using:
 ```bash
 pip install tensorflow keras opencv-python matplotlib
-
-
-
-
-
-
